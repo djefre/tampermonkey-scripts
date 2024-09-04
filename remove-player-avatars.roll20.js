@@ -11,6 +11,6 @@
 
 (function() {
     'use strict';
+    
     document.getElementById('avatarContainer').remove()
-    // Your code here...
 })();
