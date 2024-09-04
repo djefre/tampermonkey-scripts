@@ -12,5 +12,8 @@
 (function() {
     'use strict';
     
-    document.getElementById('avatarContainer').remove()
+    try{
+        document.getElementById('avatarContainer').remove();
+        console.warn('==== Avatars removed ====');
+    } catch{}
 })();
