@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  AutoGenerates the branchename for ya
 // @author       Jeff
-// @match        https://dev.azure.com/speedbooks/*
+// @match        https://dev.azure.com/*
 // @grant        none
 // ==/UserScript==
 
