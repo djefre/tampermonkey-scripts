@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Remove player avatars bottom-left
-// @namespace    http://tampermonkey.net/
+// @namespace    djefre.roll20
 // @version      0.1
 // @description  Removes the player avatars at the bottom left of the screen
 // @author       You
