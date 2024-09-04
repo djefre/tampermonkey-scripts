@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         IMDB searchbar autofocus
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/djefre/tampermonkey-scripts/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  auto focus on searchbar
+// @author       djefre
 // @match        https://www.imdb.com/*
 // @grant        none
 // ==/UserScript==
